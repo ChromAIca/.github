@@ -1,4 +1,4 @@
-## [Homepage of ChromAIca](chromaica.github.io/)
+## [Homepage of ChromAIca](https://chromaica.github.io/)
 
 <!--
 
